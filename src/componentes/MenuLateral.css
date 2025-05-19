@@ -1,0 +1,47 @@
+.Menu-lateral {
+    background-color: #282A36;
+    height: 100%;
+    width: 60px;
+    position: fixed;
+    top: 0px;
+    left: 0%;
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.Botao {
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: #44475A;
+    left: 0.4%;
+    z-index: 15;
+}
+
+.Usuario {
+    position: fixed;
+    top: 3%;
+}
+
+.Home {
+    position: fixed;
+    top: 11%;
+}
+
+.Proj {
+    position: fixed;
+    top: 19%;
+}
+
+.ProjComp {
+    position: fixed;
+    top: 27%;
+}
+
+.Icone {
+    width: 24px;
+    height: 24px;
+}
